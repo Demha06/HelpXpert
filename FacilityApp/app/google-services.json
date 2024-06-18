@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187696886664",
+    "project_id": "facility-app-de74f",
+    "storage_bucket": "facility-app-de74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187696886664:android:ba96884199cf293fff803d",
+        "android_client_info": {
+          "package_name": "com.example.facilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187696886664-02kjnl5tcdsa47bgp8udnmu809daqfi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3QX4wjosp9YXOxiF4_aqUsWr7otBlErg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187696886664-02kjnl5tcdsa47bgp8udnmu809daqfi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
